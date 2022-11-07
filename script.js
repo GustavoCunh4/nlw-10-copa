@@ -25,20 +25,20 @@ function createCard(date, day, games) {
     createCard(
       "24/11",
       "quinta",
-      createGame("Brazil", "16:00", "Serbia") +
-      createGame("Portugal", "16:00", "Ghana") +
-      createGame("Uruguay", "10:00", "Southkorea"))
+      createGame("brazil", "16:00", "serbia") +
+      createGame("portugal", "16:00", "ghana") +
+      createGame("uruguay", "10:00", "southkorea"))
       +
     createCard(
       "28/11",
       "segunda",
-      createGame("Brazil", "13:00", "Switzerland") + 
-      createGame("Portugal", "16:00", "Uruguay") +
-      createGame("Southkorea", "10:00", "Ghana"))
+      createGame("brazil", "13:00", "switzerland") + 
+      createGame("portugal", "16:00", "uruguay") +
+      createGame("southkorea", "10:00", "ghana"))
       +
     createCard(
       "02/12", 
       "sexta", 
-      createGame("Brazil", "16:00", "Camaron") +
-      createGame("Southkorea", "12:00", "Portugal") +
-      createGame("Ghana", "12:00", "Uruguay"))
+      createGame("brazil", "16:00", "camaron") +
+      createGame("southkorea", "12:00", "portugal") +
+      createGame("ghana", "12:00", "uruguay"))
